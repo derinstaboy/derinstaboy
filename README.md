@@ -17,8 +17,8 @@ Hi, I'm **Josua**, a passionate **Software Developer & IT Specialist** with a st
 🔹 **[Aggregator](https://swap-eth-sand.vercel.app/)** - A custom decentralized exchange for ERC-20 tokens, supporting volume-based rewards.  
 
 ## 📫 Let's Connect
-- 📩 Telegram: t.me/josuasie 
-
+- 📩 [Telegram](https://t.me/josuasie)
+  
 ---
 
 ### ⚡ Fun Facts  
