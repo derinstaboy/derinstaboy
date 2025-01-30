@@ -13,20 +13,13 @@ Hi, I'm **Josua**, a passionate **Software Developer & IT Specialist** with a st
 - **Database Management** (PostgreSQL, MySQL, MongoDB)
 
 ## 🌟 Featured Projects
-🔹 **[Web3 Casino](https://github.com/your-repo)** - A decentralized gaming platform with Coin Flip, Lottery, and Roulette (using Witnet Randomness).  
-🔹 **[Crypto Swap Platform](https://github.com/your-repo)** - A custom decentralized exchange for ERC-20 tokens, supporting volume-based rewards.  
-🔹 **[VPN Automation](https://github.com/your-repo)** - OpenVPN setup and automation for remote access and secure connections.  
+🔹 **[Web3 Casino](https://kitty-zeta.vercel.app/)** - A decentralized gaming platform with Coin Flip, Lottery, and Roulette (using Witnet Randomness).  
+🔹 **[Aggregator](https://swap-eth-sand.vercel.app/)** - A custom decentralized exchange for ERC-20 tokens, supporting volume-based rewards.  
 
 ## 📫 Let's Connect
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)  
-- 🌐 [Website](https://your-website.com)  
-- 📩 Email: your.email@example.com  
+- 📩 Telegram: t.me/josuasie 
 
 ---
 
 ### ⚡ Fun Facts  
 🏆 Competitive **Fortnite** player | 🎬 Movie enthusiast (**The Green Mile**, **Forrest Gump**) | 🔬 Passionate about **Biohacking**  
-
----
-
-Feel free to tweak it and add more personal projects, achievements, or contact details. Let me know if you need any adjustments! 🚀
