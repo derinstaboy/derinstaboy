@@ -13,8 +13,7 @@ Hi, I'm **Josua**, a passionate **Software Developer & IT Specialist** with a st
 - **Database Management** (PostgreSQL, MySQL, MongoDB)
 
 ## 🌟 Featured Projects
-🔹 **[Web3 Casino](https://kitty-zeta.vercel.app/)** - A decentralized gaming platform with Coin Flip, Lottery, and Roulette (using Witnet Randomness).  
-🔹 **[Aggregator](https://swap-eth-sand.vercel.app/)** - A custom decentralized exchange for ERC-20 tokens, supporting volume-based rewards.  
+🔹 **[Web3 Casino](https://www.crovegas.fun/)** - A decentralized gaming platform with Coin Flip, Lottery, and Roulette (using Witnet Randomness).  
 
 ## 📫 Let's Connect
 - 📩 [Telegram](https://t.me/josuasie)
