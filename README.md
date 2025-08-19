@@ -19,6 +19,3 @@ Hi, I'm **Josua**, a passionate **Software Developer & IT Specialist** with a st
 - 📩 [Telegram](https://t.me/josuasie)
   
 ---
-
-### ⚡ Fun Facts  
-🏆 Competitive **Fortnite** player | 🎬 Movie enthusiast (**The Green Mile**, **Forrest Gump**) | 🔬 Passionate about **Biohacking**  
